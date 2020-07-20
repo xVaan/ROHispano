@@ -2,7 +2,7 @@
 name: Bug reporte
 about: Crea un reporte para que lo solucionemos
 title: ''
-labels: ''
+labels: bug
 assignees: ''
 
 ---
